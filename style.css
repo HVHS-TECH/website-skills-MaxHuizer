@@ -1,5 +1,9 @@
 body {
-    background-color: rgb(16, 124, 213);
+    background-color: black;
     font-family: Arial, Helvetica, sans-serif;
     color: white;
+
+    img {
+      border-radius: 8px;
+    }
   }
