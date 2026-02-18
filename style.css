@@ -2,8 +2,14 @@ body {
     background-color: black;
     font-family: Arial, Helvetica, sans-serif;
     color: white;
+}
 
-    img {
-      border-radius: 8px;
-    }
+img {
+    border-radius: 8px;
   }
+    
+a {
+    color: black;
+    background-color: yellow;
+    font-weight: bold;
+}
