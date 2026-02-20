@@ -17,3 +17,13 @@ a {
 ul {
   list-style-type:circle;
 }
+
+head{
+  background-color:lightblue
+}
+nav{
+background-color:red
+}
+main{
+  background-color:blue
+}
