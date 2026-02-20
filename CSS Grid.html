@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>CSS Grid</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<nav>
+<a href="index.html">Home</a>
+<a href="Favourite things.html">Favourite things</a>
+<a href="Gallery.html">Gallery</a>
+<a href="CSS Grid.html">CSS Grid</a>
+</nav>
+
+<style>
+.container {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  background-color: dodgerblue;
+  padding: 10px;
+  height: 400px;
+  width: 650px;
+  gap: 10px 30px;
+  padding: 5px;
+}
+.container div {
+  background-color: #f1f1f1;
+  border: 1px solid black;
+  padding: 10px;
+  font-size: 30px;
+  text-align: center;
+}
+</style>
+
+<div class="container">
+  <div class="item1">1</div>
+  <div>2</div>
+  <div>3</div>  
+  <div>4</div>
+  <div>5</div>
+  <div>6</div>
+  <div>7</div>
+  <div>8</div>
+  <div>9</div>
+  <div class="item10">10</div>
+  <div>11</div>
+  <div>12</div>
+  <div>13</div>
+  <div>14</div>
+</div>
+
+</body>
+</html>
