@@ -22,8 +22,11 @@ head{
   background-color:lightblue
 }
 nav{
-background-color:red
+background-color:rgb(23, 6, 118)
 }
 main{
-  background-color:blue
+  background-color:rgb(57, 91, 205)
 }
+
+footer{
+  background-color: rgb (rgb(23, 6, 118)) }
