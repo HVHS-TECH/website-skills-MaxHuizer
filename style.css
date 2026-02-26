@@ -22,6 +22,7 @@ head{
   background-color: lightblue;
   padding-left: 4px;
   border-radius: 15px;
+
 }
 
 nav{
@@ -29,11 +30,10 @@ background-color: rgb(0, 145, 255);
 padding-left: 4px;
 padding-top: 8px;
 padding-bottom: 8px;
-
 }
 
 main{
-  background-color: rgb(13, 74, 154);
+  background-color: rgb(6, 10, 89);
   padding-left: 4px;
 }
 
@@ -46,18 +46,18 @@ footer{
 }
 
 .intro {
-  background-color:rgb(8, 125, 164);
+  background-color:rgb(16, 81, 212);
   color: white;
   border: 2px white;
   margin:4px;
-  margin-right: 1000px;
+  margin-right: 50%;
   border-radius: 15px;
 }
 
 .paragraph {
   color: white;
   padding: 10px;
-  background-color: rgb(11, 34, 110);
+  background-color: rgb(0, 89, 255);
   margin-right: 1000px;
   border-radius: 5px;
 }
